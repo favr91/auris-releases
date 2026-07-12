@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "apkUrl": "https://github.com/favr91/auris-releases/releases/latest/download/Auris.apk",
-  "notes": "Primera escucha más fluida, mejor manejo de voces y scroll, ajuste de calidad en teléfonos lentos y correcciones."
+  "notes": "Índice de capítulos por secciones (jerarquía del libro), primera escucha más fluida y varias mejoras."
 }
