@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
+  "versionCode": 5,
+  "versionName": "1.2.2",
   "apkUrl": "https://github.com/favr91/auris-releases/releases/latest/download/Auris.apk",
-  "notes": "Tiempos de lectura estimados, leer artículos por URL, búsqueda mejorada estilo Keep y varias mejoras de interfaz y animaciones."
+  "notes": "Lectura correcta de números y números romanos (español e inglés), lectura más fluida entre párrafos, y mejoras de interfaz en la biblioteca y el lector."
 }
