@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.2.4",
+  "versionCode": 8,
+  "versionName": "1.2.5",
   "apkUrl": "https://github.com/favr91/auris-releases/releases/latest/download/Auris.apk",
-  "notes": "El reproductor del sistema ahora muestra la portada del libro, y al tocarlo abre directamente la lectura del libro en curso."
+  "notes": "Ahora puedes escuchar una muestra de cada voz desde el selector (botón ▶) antes de elegirla."
 }
