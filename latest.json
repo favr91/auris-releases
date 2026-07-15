@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
+  "versionCode": 6,
+  "versionName": "1.2.3",
   "apkUrl": "https://github.com/favr91/auris-releases/releases/latest/download/Auris.apk",
-  "notes": "Lectura correcta de números y números romanos (español e inglés), lectura más fluida entre párrafos, y mejoras de interfaz en la biblioteca y el lector."
+  "notes": "Sigue la lectura resaltando la oración que se lee, toca una palabra para empezar a leer desde ahí, y el párrafo hablado ahora queda centrado en pantalla."
 }
