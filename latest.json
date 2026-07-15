@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.3",
+  "versionCode": 7,
+  "versionName": "1.2.4",
   "apkUrl": "https://github.com/favr91/auris-releases/releases/latest/download/Auris.apk",
-  "notes": "Sigue la lectura resaltando la oración que se lee, toca una palabra para empezar a leer desde ahí, y el párrafo hablado ahora queda centrado en pantalla."
+  "notes": "El reproductor del sistema ahora muestra la portada del libro, y al tocarlo abre directamente la lectura del libro en curso."
 }
