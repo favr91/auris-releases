@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.2.5",
+  "versionCode": 9,
+  "versionName": "1.2.6",
   "apkUrl": "https://github.com/favr91/auris-releases/releases/latest/download/Auris.apk",
-  "notes": "Ahora puedes escuchar una muestra de cada voz desde el selector (botón ▶) antes de elegirla."
+  "notes": "Al eliminar un libro o artículo, el mini-reproductor y su notificación ahora desaparecen correctamente."
 }
