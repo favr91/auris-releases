@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.2.7",
+  "versionCode": 11,
+  "versionName": "1.2.8",
   "apkUrl": "https://github.com/favr91/auris-releases/releases/latest/download/Auris.apk",
-  "notes": "El tiempo de lectura ahora avanza de forma continua, y los controles muestran el tiempo del capítulo a los lados y lo que queda del libro en el centro."
+  "notes": "Nueva tipografía en toda la interfaz: Google Sans Flex, la fuente que Google usa en sus apps."
 }
