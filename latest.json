@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.2.8",
+  "versionCode": 12,
+  "versionName": "1.2.9",
   "apkUrl": "https://github.com/favr91/auris-releases/releases/latest/download/Auris.apk",
-  "notes": "Nueva tipografía en toda la interfaz: Google Sans Flex, la fuente que Google usa en sus apps."
+  "notes": "Vista de lectura de libro completo con navegación por capítulos. La app lee en voz alta el nombre del capítulo al empezar uno nuevo. Mejor detección de capítulos (prólogo, sinopsis y portada ya no aparecen como 'Capítulo 1'). Puedes marcar capítulos como leídos desde el selector."
 }
