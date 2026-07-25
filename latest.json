@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.2.9",
+  "versionCode": 13,
+  "versionName": "1.3.0",
   "apkUrl": "https://github.com/favr91/auris-releases/releases/latest/download/Auris.apk",
-  "notes": "Vista de lectura de libro completo con navegación por capítulos. La app lee en voz alta el nombre del capítulo al empezar uno nuevo. Mejor detección de capítulos (prólogo, sinopsis y portada ya no aparecen como 'Capítulo 1'). Puedes marcar capítulos como leídos desde el selector."
+  "notes": "Mejor reconocimiento de capítulos en EPUBs mal formados: se dejan de crear 'capítulos' falsos a partir de notas al pie y fragmentos sueltos, y las páginas de créditos se detectan por su contenido. Si un EPUB trae un título basura ('Unknown'), ahora se usa el nombre del archivo importado."
 }
